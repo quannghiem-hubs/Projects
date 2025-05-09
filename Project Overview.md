@@ -1,12 +1,12 @@
-# 📍 Waze – User Churn Prediction Model Proposal
+# Waze – User Churn Prediction Model Proposal
 
-## 🧠 Overview
+## Overview
 
 This project focuses on predicting **user churn for the Waze navigation app**. By identifying users at high risk of churning, we aim to support **targeted retention strategies**, improve user experience, and drive business growth. The project follows the **PACE (Plan, Analyze, Construct, Execute)** workflow and includes structured tasks and milestones.
 
 ---
 
-## 🚦 Milestones & Deliverables
+## Milestones & Deliverables
 
 | Milestone | Tasks                         | Deliverables/Reports                                 |
 |----------:|-------------------------------|------------------------------------------------------|
@@ -25,7 +25,7 @@ This project focuses on predicting **user churn for the Waze navigation app**. B
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas, Scikit-learn, Statsmodels)
 - Tableau (Data visualization)
@@ -34,9 +34,21 @@ This project focuses on predicting **user churn for the Waze navigation app**. B
 
 ---
 
-## 📈 Expected Outcomes
+## Expected Outcomes
 
 - Identified key predictors of user churn
 - Trained ML model with actionable churn probabilities
 - Dashboards and reports for business stakeholders
 - Strategic insights to improve Waze user retention
+
+---
+
+## 📂 Project File Breakdown
+
+Below is a summary of the key Jupyter notebooks used in this project, aligned with major tasks:
+
+- **DataExploration.ipynb**: Data exploration and basic cleaning using pandas.
+- **Initial EDA.ipynb**: Initial EDA and summary statistics.
+- **Hypothesis testing and regression modeling.ipynb**: Hypothesis testing and regression modeling.
+- **Machine Learning.ipynb**: Machine learning model development and evaluation.
+
